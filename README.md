@@ -16,7 +16,7 @@ ser encontrada no enunciado
 ## Cronograma
 
 | Dia     | Trabalho Proposto                       |
-|---------+-----------------------------------------|
+|---------|-----------------------------------------|
 | 26/10   | Parser de comandos e Função 7 segmentos |
 
 
